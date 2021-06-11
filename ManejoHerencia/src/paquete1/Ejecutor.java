@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+// Jonathan Erazo Borrero
+// Jamil Quituizaca
 package paquete1;
 
 import java.util.Scanner;
